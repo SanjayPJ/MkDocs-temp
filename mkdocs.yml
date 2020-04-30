@@ -1,0 +1,12 @@
+site_name: How to use MKdocs?
+extra_css:
+    - css/extra.css
+theme:
+  name: material
+
+highlightjs: true
+
+nav:
+    - 'Introduction to markdown': 'markdown.md'
+    - 'about.md'
+    - 'Issue Tracker': 'https://example.com/'
